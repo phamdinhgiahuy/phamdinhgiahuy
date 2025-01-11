@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamdinhgiahuy&theme=gotham) 
 
+![](https://komarev.com/ghpvc/?username=phamdinhgiahuy&style=plastic&abbreviated=true&color=008080)
