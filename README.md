@@ -4,8 +4,9 @@
 
 🎓 I'm a Data Scientist in the making, exploring the fascinating world of **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**
 
-📧 You can reach me at **phamdin@msu.edu**. Don't hesitate to say hi or share cat memes with me!  
-🐾 Speaking of **CATS**, I absolutely **LOVE THEM**! 😼
+📧 You can reach me at **phamdinh@msu.edu**. Don't hesitate to say hi or share cat memes with me!  
+
+🐾 Speaking of **CATS** 😼, I absolutely **LOVE THEM**! 🙀🐈‍⬛🐈
 
 ![Cat Dev](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbWxoaXlkNml5eDkwd3c1c2w4cmw2YWVwZGNpMmIycXJ1eGplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif)
 
