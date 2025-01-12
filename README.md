@@ -2,12 +2,15 @@
 
 ![Cat Dev](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbWxoaXlkNml5eDkwd3c1c2w4cmw2YWVwZGNpMmIycXJ1eGplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif)
 
-- 👋 Hi, I’m Huy Pham or you can call me Hugo
-- 👀 I’m interested in DS/ML/AI/NLP
-- 🌱 I’m currently learning ML, Statistical Inference and Data Mining
-- 💞️ I’m looking to collaborate on ML/AI/NLP project
-- 📫 How to reach me phamdinh@msu.edu
-- 😼 I love CATS!!!
+👋 **Hi there!** I'm **Huy Pham**, but you can call me **Hugo** or **Kurtezz** depending on how funky I feel that day 😎.
+
+🎓 I'm a Data Scientist in the making, exploring the fascinating world of **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**
+
+📧 You can reach me at **phamdin@msu.edu**. Don't hesitate to say hi or share cat memes with me!  
+
+🐾 Speaking of cats, I absolutely **LOVE CATS**! 😼
+
+🌟 When I’m not crunching data, you might find me contemplating philosophical questions or optimizing my Spotify playlist. 🎶 
 
 <!---
 phamdinhgiahuy/phamdinhgiahuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
