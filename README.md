@@ -4,7 +4,7 @@
 
 🎓 I'm a Data Scientist in the making, exploring the fascinating world of **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**
 
-📧 You can reach me at **phamdinh@msu.edu**. Don't hesitate to say hi or share cat memes with me!  
+📧 You can reach me at **phamdinh@msu.edu** or **giahuyab1@gmail.com**. Don't hesitate to say hi or share cat memes with me! 😁  
 
 🐾 Speaking of **CATS** 😼, I absolutely **LOVE THEM**! 🙀🐈‍⬛🐈
 
