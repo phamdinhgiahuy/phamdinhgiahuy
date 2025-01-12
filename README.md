@@ -19,5 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://komarev.com/ghpvc/?username=phamdinhgiahuy&style=plastic&abbreviated=true&color=008080)
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&redirect=true&cover_image=false&theme=default&show_offline=false&background_color=408080&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&redirect=true)
-
+![]([https://spotify-github-profile.kittinanx.com/api/view?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false](https://spotify-github-profile.kittinanx.com/api/view?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=true))
