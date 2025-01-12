@@ -1,21 +1,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham) 
 
-![Cat Dev](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbWxoaXlkNml5eDkwd3c1c2w4cmw2YWVwZGNpMmIycXJ1eGplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif)
-
-👋 **Hi there!** I'm **Huy Pham**, but you can call me **Hugo** or **Kurtezz** depending on how funky I feel that day 😎.
+👋 *Hi there!* I'm **Huy Pham**, but you can call me **Hugo** or **Kurtezz** depending on how funky I feel for the day 😎.
 
 🎓 I'm a Data Scientist in the making, exploring the fascinating world of **Machine Learning**, **Artificial Intelligence**, and **Natural Language Processing**
 
 📧 You can reach me at **phamdin@msu.edu**. Don't hesitate to say hi or share cat memes with me!  
-
-🐾 Speaking of cats, I absolutely **LOVE CATS**! 😼
+🐾 Speaking of **CATS**, I absolutely **LOVE THEM**! 😼
+![Cat Dev](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RxbWxoaXlkNml5eDkwd3c1c2w4cmw2YWVwZGNpMmIycXJ1eGplNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgIc0lryrxvqVGM/giphy.gif)
 
 🌟 When I’m not crunching data, you might find me contemplating philosophical questions or optimizing my Spotify playlist. 🎶 
 
-<!---
-phamdinhgiahuy/phamdinhgiahuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamdinhgiahuy&theme=gotham) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamdinhgiahuy&theme=gotham) 
