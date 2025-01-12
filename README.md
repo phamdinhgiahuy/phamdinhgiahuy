@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phamdinhgiahuy&theme=gotham) 
 
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://open.spotify.com/user/21qowdvr6qxjcrlpidccekbea)
+
 ![](https://komarev.com/ghpvc/?username=phamdinhgiahuy&style=plastic&abbreviated=true&color=008080)
-
-
-![]([[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=00ffff&bar_color_cover=true)]])
