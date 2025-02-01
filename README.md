@@ -1,4 +1,5 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham) 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 👋 *Hi there!* I'm **Huy Pham**, but you can call me **Hugo** or **Kurtezz** depending on how funky I feel for the day 😎.
 
@@ -13,6 +14,8 @@
 🌟 When I’m not crunching data, you might find me contemplating philosophical questions or optimizing my Spotify playlist. 🎶 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamdinhgiahuy&theme=gotham) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham) 
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=false&background_color=067a68&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://open.spotify.com/user/21qowdvr6qxjcrlpidccekbea)
 
