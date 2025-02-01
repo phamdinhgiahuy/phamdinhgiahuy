@@ -75,9 +75,9 @@ C                        1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=false&background_color=067a68&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://open.spotify.com/user/21qowdvr6qxjcrlpidccekbea)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=phamdinhgiahuy&style=plastic&abbreviated=true&color=008080)
