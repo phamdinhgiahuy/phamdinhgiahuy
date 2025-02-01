@@ -5,8 +5,14 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 jobs:
   update-readme:
+    permissions: 
+      contents: write
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -19,7 +25,8 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
-      - uses: Platane/snk@v3
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -37,3 +44,5 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
