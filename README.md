@@ -77,7 +77,7 @@ C                        1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake-dark.svg" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=phamdinhgiahuy&style=plastic&abbreviated=true&color=008080)
