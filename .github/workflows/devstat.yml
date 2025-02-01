@@ -1,48 +1,56 @@
-name: Waka Readme
+name: Readme Update
 
 on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
   workflow_dispatch:
-  # run on every push on the master branch
   push:
     branches:
-    - main
+      - main
+
 jobs:
   update-readme:
-    permissions: 
+    permissions:
       contents: write
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Update README with Waka stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SYMBOL_VERSION: 3
           SHOW_TIMEZONE: "False"
-          SHOW_SHORT_INFO: "False"
+          SHOW_SHORT_INFO: "False" 
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # env:
+        #   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg
+            dist/ocean.gif
+
+      - name: Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Generate Contribution Snake'
+          add: 'dist'
