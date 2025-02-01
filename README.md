@@ -13,9 +13,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamdinhgiahuy&theme=gotham) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham) 
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=false&background_color=067a68&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://open.spotify.com/user/21qowdvr6qxjcrlpidccekbea)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham)-->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
@@ -73,6 +71,8 @@ C                        1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 <!--END_SECTION:waka-->
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21qowdvr6qxjcrlpidccekbea&cover_image=false&theme=default&show_offline=false&background_color=067a68&interchange=false&bar_color=00ffff&bar_color_cover=true)](https://open.spotify.com/user/21qowdvr6qxjcrlpidccekbea)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
