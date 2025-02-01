@@ -1,4 +1,4 @@
-name: Update Readme
+name: Waka Readme
 
 on:
   schedule:
@@ -17,6 +17,13 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
       - name: Update README with Waka stats
         uses: anmol098/waka-readme-stats@master
@@ -38,8 +45,11 @@ jobs:
             dist/github-snake-dark.svg
             dist/ocean.gif
 
-      - name: Push changes
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: 'Generate Contribution Snake'
-          add: 'dist'
+      - name: Commit and push changes
+        run: |
+          git pull origin main
+          git add dist/
+          git commit -m "Generate Contribution Snake"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
