@@ -35,6 +35,7 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS: "False"
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
