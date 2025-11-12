@@ -16,7 +16,7 @@
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phamdinhgiahuy&theme=gotham)-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-663%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%203%20mins-blue)
 
 **I'm an Early 🐤** 
 
